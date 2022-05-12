@@ -4,3 +4,4 @@
 # Directories.
 __pycache__/
 chatbot-deployment-main/
+data.pth/
