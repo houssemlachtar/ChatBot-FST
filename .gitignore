@@ -1,0 +1,6 @@
+# System and generated files.
+.vscode/
+
+# Directories.
+__pycache__/
+chatbot-deployment-main/
