@@ -4,14 +4,13 @@ A machine learning chatbot with Flask Python and Javascript in the front-end.
 </p>
 
 ## Initial Setup in Windows
-Make sure python is among your environment variables first.
-Open the whole project in VS Code 
-Open app.py and run in a new terminal 
+Make sure python is among your environment variables first.<br>
+Open the whole project in VS Code <br>
+Open app.py and run in a new terminal <br>
 <br>
 Create a virtual environment 
 ```
 chatbot-FST\Scripts\activate
-
 ```
 
 ## Now install the dependencies 
@@ -22,7 +21,6 @@ python -m pip install --trusted-host pypi.python.org --trusted-host files.python
 python -m pip install --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org pip torch
 python -m pip install --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org torchvision
 python -m pip install --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org pip nltk
-
 ```
 
 ## Running the app
@@ -33,7 +31,6 @@ python
 >>> nltk.download('punkt')
 python train.py
 python chat.py
-
 ```
 At this level your chatbot should be running and appearing in the command line.
 
