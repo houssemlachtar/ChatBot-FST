@@ -7,7 +7,7 @@ A machine learning chatbot with Flask Python and Javascript in the front-end.
 Make sure python is among your environment variables first.
 Open the whole project in VS Code 
 Open app.py and run in a new terminal 
-</ br>
+<br>
 Create a virtual environment 
 ```
 chatbot-FST\Scripts\activate
