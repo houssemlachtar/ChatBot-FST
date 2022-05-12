@@ -37,9 +37,9 @@ At this level your chatbot should be running and appearing in the command line.
 ## Linking in the chatbot to the front-end
 
 All you have to do now is to:
-Press F5 to start debugging 
-Or 
-Just go to RUN in the menu bar and click start debugging
+Press F5 to start debugging<br> 
+Or<br> 
+Just go to RUN in the menu bar and click start debugging<br>
 
 ## The app should be running on http://127.0.0.1:5000/
 
