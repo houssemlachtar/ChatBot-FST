@@ -43,6 +43,8 @@ Just go to RUN in the menu bar and click start debugging<br>
 
 ## The app should be running on http://127.0.0.1:5000/
 
+## You can edit chatbot responses in the "intents.json" file freely according to your needs 
+
 ## Used Tools
 
 <details>
