@@ -29,6 +29,7 @@ python -m pip install --trusted-host pypi.python.org --trusted-host files.python
 python
 >>> import ntlk
 >>> nltk.download('punkt')
+>>> quit() 
 python train.py
 python chat.py
 ```
