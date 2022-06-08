@@ -5,7 +5,7 @@ A machine learning chatbot with Flask Python and Javascript in the front-end.
 
 ## Initial Setup in Windows
 Make sure you have [Node JS](https://nodejs.org/dist/v16.15.0/node-v16.15.0-x64.msi) installed.<br>
-Make sure [Python 2.7](https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi) is installed and among your environment variables first.<br>
+Make sure [Python 2.7](https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi) is installed and is among your environment variables first.<br>
 Open the whole project in VS Code <br>
 Open app.py and run in a new terminal <br>
 <br>
